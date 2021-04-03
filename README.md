@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ni-dhi
 - 👀 I’m interested in ..coding and web development.
 - 🌱 I’m currently learning ... computer science &Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...https://github.com/ni-dhi
 
 <!---
 ni-dhi/ni-dhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
